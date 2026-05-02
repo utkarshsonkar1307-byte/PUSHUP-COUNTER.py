@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+*.pyc
+pushup_log.txt
