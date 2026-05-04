@@ -98,10 +98,13 @@ pushup_log.txt
 
 (Add your screenshot here after taking one)
 
-Example:
+## 📸 Demo
 
-![Push-Up Counter Demo](demo.png)
+![Demo](demo1.jpg)
 
+![Demo](demo2.jpg)
+
+![Demo](demo3.jpg)
 To add demo:
 
 1. Run your project
